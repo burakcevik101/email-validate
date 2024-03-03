@@ -1,0 +1,25 @@
+{
+  "name": "email-validate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/burakcevik101/email-validate.git"
+  },
+  "keywords": [
+    "email input",
+    "email validate",
+    "validate"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "email-regex": "^5.0.0",
+    "email-regex-safe": "^4.0.0",
+    "validator": "^13.11.0"
+  }
+}
