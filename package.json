@@ -1,6 +1,6 @@
 {
   "name": "@burak101/email-validate",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "description": "",
   "scripts": {
@@ -20,6 +20,7 @@
   "dependencies": {
     "email-regex": "^5.0.0",
     "email-regex-safe": "^4.0.0",
+    "validatetc": "^1.0.3",
     "validator": "^13.11.0"
   }
 }
